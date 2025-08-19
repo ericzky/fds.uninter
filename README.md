@@ -1,1 +1,1 @@
-Aula prática da disciplina de desenvolvimento de sofware da Uninter.
+Aula prática da disciplina de fundamentos de desenvolvimento de sofware da Uninter.
